@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['black_car', 'white_car']
+
+roboflow:
+  workspace: uzair-satti
+  project: color_detection-wlz7w
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/uzair-satti/color_detection-wlz7w/1
