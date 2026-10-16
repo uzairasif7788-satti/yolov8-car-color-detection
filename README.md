@@ -55,5 +55,5 @@ A robust deep learning project for detecting and classifying **black** and **whi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/yolov8-car-color-detection.git](https://github.com/uzairasif7788-satti/yolov8-car-color-detection.git)
+   git clone [https://github.com/uzairasif7788-satti/yolov8-car-color-detection.git](https://github.com/uzairasif7788-satti/yolov8-car-color-detection.git)
    cd yolov8-car-color-detection
